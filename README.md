@@ -21,7 +21,7 @@ Goodreads Data retrieved from Kaggle: https://www.kaggle.com/bahramjannesarr/goo
 ### Navigation
 | File        | Description |
 | ----------- | ----------- |
-| Data      | Data files used to run the program  |
+| data      | Processed/cleaned book data file and personal Goodreads data used to run the program. Initial data retrieved from Kaggle link above.  |
 | graphs    | Graph outputs |
 | results   | Results from recommender systems |
 | Books_DataPrep_EDA.ipynb   | Books Data dataset cleaning and initial EDA |
